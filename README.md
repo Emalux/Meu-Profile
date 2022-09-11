@@ -11,8 +11,8 @@ class About extends Dev {
 }
 
 class Skills extends Dev {
-  langs  = ['Py'];
-  bib  = ['Disnake', 'discord.py', 'html', 'css'];
+  langs  = ['Py', 'html', 'css'];
+  bib  = ['Disnake', 'discord.py'];
 }
 
 ```
