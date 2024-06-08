@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile</h1>
 
-```js
-import Dev from 'Pikachu';
+```py
+import Dev from 'Emalux';
 
 class About extends Dev {
   name = 'Emanuel';
