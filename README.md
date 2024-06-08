@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile</h1>
 
-```py
+```js
 import Dev from 'Emalux';
 
 class About extends Dev {
