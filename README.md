@@ -15,4 +15,10 @@ class Skills extends Dev {
   bib  = ['Disnake', 'discord.py'];
 }
 
+class SkillsLV extends Dev {
+  Py = ['35%']
+  html = ['13%']
+  css = ['3%']
+}
+
 ```
